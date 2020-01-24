@@ -1,0 +1,23 @@
+tr > th {
+    width: 100px
+}
+
+table {
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
+
+button[type='submit'] {
+    text-align: center;
+    margin-top: 3%;
+    color: green;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.top-padded {
+    padding-top: 5%
+}

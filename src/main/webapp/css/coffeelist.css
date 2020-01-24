@@ -1,0 +1,33 @@
+input {
+    text-align: center;
+}
+
+input:read-only {
+    cursor: default;
+    border: unset;
+}
+
+input:read-only:focus {
+    border: unset;
+}
+
+input:read-only {
+
+}
+
+
+tr > th {
+    text-align: center;
+}
+
+button[type='submit'] {
+    text-align: center;
+    margin-top: 3%;
+    color: green;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.centered {
+    text-align: center;
+}
